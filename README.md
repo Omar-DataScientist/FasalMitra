@@ -1,4 +1,4 @@
-﻿# PITAMBAR — Farmer Advisory Backend
+﻿# FasalMitra — Farmer Advisory Backend
 
 A production-ready AI backend for Indian agricultural advisory. This branch contains the working FastAPI service, multi-agent orchestration, RAG retrieval, search helpers, speech support, and in-memory session/profile storage.
 
